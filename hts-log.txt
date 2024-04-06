@@ -1,0 +1,169 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 Nov 2023 09:08:00 at https://www.eurofert-egypt.com/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.eurofert-egypt.com/index.html -O1 "C:\Users\Mahmoud Elbehery\Desktop\Programing\Road_Maps\EuroFert" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:08:18	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/xmlrpc.php (from https://www.eurofert-egypt.com/index.html)
+09:08:21	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/www_eurofert-egypt_default.html (from https://www.eurofert-egypt.com/index.html)
+09:08:21	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/images/preloader.GIF (from https://www.eurofert-egypt.com/index.html)
+09:08:21	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/images/uploads/2018/01/back-16-6.jpg (from https://www.eurofert-egypt.com/index.html)
+09:10:00	Warning: 	Moved Permanently for www.eurofert-egypt.com/robots.txt
+09:10:00	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/robots.txt and https://www.eurofert-egypt.com/robots.txt
+09:10:00	Warning: 	Warning moved treated for www.eurofert-egypt.com/robots.txt (real one is https://www.eurofert-egypt.com/robots.txt)
+09:10:00	Warning: 	Moved Permanently for www.eurofert-egypt.com/feed/
+09:10:00	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/feed/ and https://www.eurofert-egypt.com/feed/
+09:10:00	Warning: 	File has moved from www.eurofert-egypt.com/feed/ to https://www.eurofert-egypt.com/feed/
+09:10:00	Warning: 	Moved Permanently for www.eurofert-egypt.com/comments/feed/
+09:10:00	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/comments/feed/ and https://www.eurofert-egypt.com/comments/feed/
+09:10:00	Warning: 	File has moved from www.eurofert-egypt.com/comments/feed/ to https://www.eurofert-egypt.com/comments/feed/
+09:10:00	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/fonts/dashicons.eot (from https://www.eurofert-egypt.com/eufincludes/css/dashicons.min.css)
+09:10:00	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/mappress-google-maps-for-euroferts/images/geolocate-2x.png (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/mappress-google-maps-for-euroferts/css/mappress.css)
+09:10:00	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/mappress-google-maps-for-euroferts/images/directions.png (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/mappress-google-maps-for-euroferts/css/mappress.css)
+09:10:00	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/mappress-google-maps-for-euroferts/images/menu-2x.png (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/mappress-google-maps-for-euroferts/css/mappress.css)
+09:10:00	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/mappress-google-maps-for-euroferts/images/loading.gif (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/mappress-google-maps-for-euroferts/css/mappress.css)
+09:10:00	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/themes/eurofert/assets/genericons/Genericons.eot (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/themes/eurofert/style.css)
+09:10:00	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed)
+09:10:01	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/products.html)
+09:10:01	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/imagesloaded.pkgd.min.js (from https://www.eurofert-egypt.com/products.html)
+09:10:01	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/site_gallery.js (from https://www.eurofert-egypt.com/products.html)
+09:10:01	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-01-300x120.png (from https://www.eurofert-egypt.com/npk.html)
+09:10:01	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/npk/eufincludes/Text/Diff/Renderer/Others/themes/eurofert/assets/js/navigation.min.js (from https://www.eurofert-egypt.com/npk.html)
+09:10:01	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/npk/eufincludes/Text/Diff/Renderer/Others/themes/eurofert/assets/js/skip-link-focus-fix.min.js (from https://www.eurofert-egypt.com/npk.html)
+09:10:01	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/npk/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/npk.html)
+09:10:01	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/npk/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/npk.html)
+09:10:01	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/npk/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/npk.html)
+09:10:01	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-02-300x120.png (from https://www.eurofert-egypt.com/chelates.html)
+09:10:19	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/chelates/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/chelates.html)
+09:10:19	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/chelates/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/jquery.magnific-popup.min.js (from https://www.eurofert-egypt.com/chelates.html)
+09:10:19	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/chelates/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/imagesloaded.pkgd.min.js (from https://www.eurofert-egypt.com/chelates.html)
+09:10:19	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/chelates/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/site_gallery.js (from https://www.eurofert-egypt.com/chelates.html)
+09:10:20	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-04-300x120.png (from https://www.eurofert-egypt.com/foliar-fertilizers.html)
+09:10:20	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/foliar-fertilizers/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/foliar-fertilizers.html)
+09:10:20	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/foliar-fertilizers/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/jquery.magnific-popup.min.js (from https://www.eurofert-egypt.com/foliar-fertilizers.html)
+09:10:20	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/foliar-fertilizers/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/imagesloaded.pkgd.min.js (from https://www.eurofert-egypt.com/foliar-fertilizers.html)
+09:10:20	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/foliar-fertilizers/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/site_gallery.js (from https://www.eurofert-egypt.com/foliar-fertilizers.html)
+09:10:20	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-03-300x120.png (from https://www.eurofert-egypt.com/paste-range.html)
+09:10:20	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/paste-range/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/paste-range.html)
+09:10:20	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/paste-range/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/jquery.magnific-popup.min.js (from https://www.eurofert-egypt.com/paste-range.html)
+09:10:20	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/paste-range/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/imagesloaded.pkgd.min.js (from https://www.eurofert-egypt.com/paste-range.html)
+09:10:20	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/paste-range/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/site_gallery.js (from https://www.eurofert-egypt.com/paste-range.html)
+09:10:21	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/specialty-fertilizers-range/eufincludes/Text/Diff/Renderer/Others/themes/eurofert/assets/js/navigation.min.js (from https://www.eurofert-egypt.com/specialty-fertilizers-range.html)
+09:10:21	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/specialty-fertilizers-range/eufincludes/Text/Diff/Renderer/Others/themes/eurofert/assets/js/skip-link-focus-fix.min.js (from https://www.eurofert-egypt.com/specialty-fertilizers-range.html)
+09:10:21	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/specialty-fertilizers-range/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/specialty-fertilizers-range.html)
+09:10:21	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/specialty-fertilizers-range/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/specialty-fertilizers-range.html)
+09:10:21	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/products/specialty-fertilizers-range/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/specialty-fertilizers-range.html)
+09:10:22	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/events/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/jquery.magnific-popup.min.js (from https://www.eurofert-egypt.com/events.html)
+09:10:22	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/events/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/flexslider/jquery.flexslider.js (from https://www.eurofert-egypt.com/events.html)
+09:10:22	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/events/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/imagesloaded.pkgd.min.js (from https://www.eurofert-egypt.com/events.html)
+09:10:22	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/events/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/js/display-gallery/site_gallery.js (from https://www.eurofert-egypt.com/events.html)
+09:10:22	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=636
+09:10:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=636 and https://www.eurofert-egypt.com/?p=636
+09:10:22	Warning: 	File has moved from www.eurofert-egypt.com/?p=636 to https://www.eurofert-egypt.com/?p=636
+09:10:23	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/about-us/eufincludes/Text/Diff/Renderer/Others/themes/eurofert/assets/js/navigation.min.js (from https://www.eurofert-egypt.com/about-us.html)
+09:10:23	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/about-us/eufincludes/Text/Diff/Renderer/Others/themes/eurofert/assets/js/skip-link-focus-fix.min.js (from https://www.eurofert-egypt.com/about-us.html)
+09:10:23	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/about-us/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/about-us.html)
+09:10:23	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/about-us/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/about-us.html)
+09:10:23	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/about-us/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/about-us.html)
+09:10:23	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=1402
+09:10:23	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=1402 and https://www.eurofert-egypt.com/?p=1402
+09:10:23	Warning: 	File has moved from www.eurofert-egypt.com/?p=1402 to https://www.eurofert-egypt.com/?p=1402
+09:10:23	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=480
+09:10:23	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=480 and https://www.eurofert-egypt.com/?p=480
+09:10:23	Warning: 	File has moved from www.eurofert-egypt.com/?p=480 to https://www.eurofert-egypt.com/?p=480
+09:10:24	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eurofertimg/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/eurofertimg.html)
+09:10:24	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eurofertimg/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/eurofertimg.html)
+09:10:24	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eurofertimg/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/eurofertimg.html)
+09:10:24	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=502
+09:10:24	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=502 and https://www.eurofert-egypt.com/?p=502
+09:10:24	Warning: 	File has moved from www.eurofert-egypt.com/?p=502 to https://www.eurofert-egypt.com/?p=502
+09:10:26	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/sama/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/sama.html)
+09:10:26	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/sama/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/sama.html)
+09:10:26	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/sama/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/sama.html)
+09:10:26	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=1565
+09:10:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=1565 and https://www.eurofert-egypt.com/?p=1565
+09:10:26	Warning: 	File has moved from www.eurofert-egypt.com/?p=1565 to https://www.eurofert-egypt.com/?p=1565
+09:10:26	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/video/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/video.html)
+09:10:26	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/video/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/video.html)
+09:10:26	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/video/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/video.html)
+09:10:32	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=514
+09:10:32	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=514 and https://www.eurofert-egypt.com/?p=514
+09:10:32	Warning: 	File has moved from www.eurofert-egypt.com/?p=514 to https://www.eurofert-egypt.com/?p=514
+09:10:32	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/beat/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/beat.html)
+09:10:32	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/beat/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/beat.html)
+09:10:32	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/beat/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/beat.html)
+09:10:32	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=505
+09:10:32	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=505 and https://www.eurofert-egypt.com/?p=505
+09:10:32	Warning: 	File has moved from www.eurofert-egypt.com/?p=505 to https://www.eurofert-egypt.com/?p=505
+09:10:33	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/shams/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/shams.html)
+09:10:33	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/shams/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/shams.html)
+09:10:33	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/shams/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/shams.html)
+09:10:33	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/our-mission/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/our-mission.html)
+09:10:33	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/our-mission/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/our-mission.html)
+09:10:33	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/our-mission/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/our-mission.html)
+09:10:33	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=508
+09:10:33	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=508 and https://www.eurofert-egypt.com/?p=508
+09:10:33	Warning: 	File has moved from www.eurofert-egypt.com/?p=508 to https://www.eurofert-egypt.com/?p=508
+09:10:34	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/sahab/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/sahab.html)
+09:10:34	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/sahab/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/sahab.html)
+09:10:34	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/sahab/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/sahab.html)
+09:10:34	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/our-vision/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/our-vision.html)
+09:10:34	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/our-vision/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/our-vision.html)
+09:10:34	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/our-vision/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/our-vision.html)
+09:10:34	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=511
+09:10:34	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=511 and https://www.eurofert-egypt.com/?p=511
+09:10:34	Warning: 	File has moved from www.eurofert-egypt.com/?p=511 to https://www.eurofert-egypt.com/?p=511
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/suba/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/suba.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/suba/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/suba.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/suba/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/suba.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-tiles/assets/images/tile-demo-1.jpg?1423661819 (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-tiles/assets/css/wp-tiles.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-tiles/assets/images/loading.gif?1423661819 (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-tiles/assets/css/wp-tiles.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//products///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_2)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/css/material-design-iconic-font.min.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/fonts/Material-Design-Iconic-Font.woff?v=2.2.0 (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/css/material-design-iconic-font.min.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/fonts/Material-Design-Iconic-Font.ttf?v=2.2.0 (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/css/material-design-iconic-font.min.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//products//npk///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_3)
+09:10:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-01-300x120.png (from https://www.eurofert-egypt.com/npk.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//products//chelates///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_4)
+09:10:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-02-300x120.png (from https://www.eurofert-egypt.com/chelates.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//products//foliar-fertilizers///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_6)
+09:10:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-04-300x120.png (from https://www.eurofert-egypt.com/foliar-fertilizers.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//products//paste-range///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_5)
+09:10:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-03-300x120.png (from https://www.eurofert-egypt.com/paste-range.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//products//specialty-fertilizers-range///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_9)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//events///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_12)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/fonts/flexslider-icon.eot (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/css/display-gallery/flexslider.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/fonts/flexslider-icon.eot? (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/css/display-gallery/flexslider.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/fonts/flexslider-icon.woff (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/css/display-gallery/flexslider.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/fonts/flexslider-icon.ttf (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/css/display-gallery/flexslider.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/fonts/flexslider-icon.svg (from https://www.eurofert-egypt.com/eufincludes/Text/Diff/Renderer/Others/apps/wp-media-folder/assets/css/display-gallery/flexslider.css)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//about-us///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_10)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//contact-us///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_7)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//eurofertimg///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_8)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//sama///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_11)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//video///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_13)
+09:10:35	Warning: 	Moved Permanently for www.eurofert-egypt.com/?p=529
+09:10:35	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/?p=529 and https://www.eurofert-egypt.com/?p=529
+09:10:35	Warning: 	File has moved from www.eurofert-egypt.com/?p=529 to https://www.eurofert-egypt.com/?p=529
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/empty/eufincludes/js/hoverIntent.min.js (from https://www.eurofert-egypt.com/empty.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/empty/eufincludes/Text/Diff/Renderer/Others/apps/megamenu/js/maxmegamenu.js (from https://www.eurofert-egypt.com/empty.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/empty/eufincludes/js/wp-embed.min.js (from https://www.eurofert-egypt.com/empty.html)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//beat///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_14)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//shams///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_15)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//our-mission///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_16)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//sahab///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_17)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//our-vision///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_18)
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//suba///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_19)
+09:10:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-01-300x120.png (from https://www.eurofert-egypt.com/npk.html)
+09:10:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-02-300x120.png (from https://www.eurofert-egypt.com/chelates.html)
+09:10:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-04-300x120.png (from https://www.eurofert-egypt.com/foliar-fertilizers.html)
+09:10:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link eurofert.6r1.com/wp-content/uploads/2017/09/icons-new-03-300x120.png (from https://www.eurofert-egypt.com/paste-range.html)
+09:10:35	Warning: 	Moved Permanently for www.eurofert-egypt.com/author/maged/feed/
+09:10:35	Warning: 	Redirected link is identical because of 'URL Hack' option: www.eurofert-egypt.com/author/maged/feed/ and https://www.eurofert-egypt.com/author/maged/feed/
+09:10:35	Warning: 	File has moved from www.eurofert-egypt.com/author/maged/feed/ to https://www.eurofert-egypt.com/author/maged/feed/
+09:10:35	Error: 	"Not Found" (404) at link https://www.eurofert-egypt.com/"http:////www.eurofert-egypt.com//empty///" (from https://www.eurofert-egypt.com/wp-json/oembed/1.0/embed_20)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 35 seconds : 294 links scanned, 163 files written (12261454 bytes overall) [10387241 bytes received at 67014 bytes/sec], 2754493 bytes transferred using HTTP compression in 78 files, ratio 22%, 16.3 requests per connection
+(108 errors, 50 warnings, 0 messages)

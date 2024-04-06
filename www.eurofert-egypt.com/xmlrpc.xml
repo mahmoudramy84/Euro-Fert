@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+  <service>
+    <engineName>EuroFerts</engineName>
+    <engineLink>https://euroferts.org/</engineLink>
+    <homePageLink>http://www.eurofert-egypt.com</homePageLink>
+    <apis>
+      <api name="EuroFerts" blogID="1" preferred="true" apiLink="http://www.eurofert-egypt.com/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.eurofert-egypt.com/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.eurofert-egypt.com/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.eurofert-egypt.com/xmlrpc.php" />
+      	<api name="WP-API" blogID="1" preferred="false" apiLink="http://www.eurofert-egypt.com/wp-json/" />
+	    </apis>
+  </service>
+</rsd>
